@@ -1,0 +1,9 @@
+site_name: DAISY
+site_url: https://daisy.ruhr/
+
+theme:
+  name: material
+  language: de
+  font: false
+
+plugins: []
